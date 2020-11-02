@@ -2,7 +2,7 @@
 
 ### Step -1: Create Dateset
 
-<b> Run keras_datagenreator_data_augmentation.ipynb file and check all folder for dataset, Now move these datasets to create_classifier/dataset_image folder</b>
+<b> Run keras_datagenreator_data_augmentation.ipynb file and check <i>all</i> folder for dataset, Now move these datasets to create_classifier/dataset_image folder</b>
 
 ### Step -2: Create Model
 
